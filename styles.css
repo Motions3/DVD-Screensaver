@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #0f0f0f;
+}
+
+canvas {
+    display: block;
+}
+
+#counter {
+    position: absolute;
+    font-size: 16px;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 5px 10px;
+    text-align: center;
+}
